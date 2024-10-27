@@ -39,36 +39,40 @@ export default function About() {
             <div className="accordion-item">
                 <h2 className="accordion-header">
                 <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style={myStyle}>
-                    Accordion Item #1
+                Analyze the Text
                 </button>
                 </h2>
                 <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                 <div className="accordion-body" style={myStyle}>
-                    <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                TextUtils is a comprehensive tool designed to facilitate the analysis of written content. It empowers users—be they students, educators, writers, or researchers—to delve deeper into texts by examining various elements and extracting meaningful insights. The tool is equipped to analyze different types of text, from literary works to academic articles, and offers features such as:
                 </div>
                 </div>
             </div>
             <div className="accordion-item">
                 <h2 className="accordion-header">
                 <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style={myStyle}>
-                    Accordion Item #2
+                Free to Use
                 </button>
                 </h2>
                 <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div className="accordion-body" style={myStyle}>
-                    <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                TextUtils is a user-friendly and accessible tool designed to help individuals analyze and understand written content with ease. Whether you’re a student, educator, writer, or simply a literature enthusiast, TextUtils provides valuable insights into various texts—completely free of charge.
                 </div>
                 </div>
             </div>
             <div className="accordion-item">
                 <h2 className="accordion-header">
                 <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style={myStyle}>
-                    Accordion Item #3
+                    Browser Compatible
                 </button>
                 </h2>
                 <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div className="accordion-body" style={myStyle}>
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                TextUtils is a versatile and powerful text analysis tool designed to enhance your understanding of written content, all while being fully compatible with modern web browsers. Whether you’re using Chrome, Firefox, Safari, or any other popular browser, TextUtils provides a seamless and user-friendly experience without the need for downloads or installations.
+                <br />
+                Key Features: <br />
+                1. Accessible Anytime, Anywhere: With browser compatibility, you can access TextUtils from any device—desktop, laptop, tablet, or smartphone—allowing for flexible use wherever you are.  <br />
+                2. Intuitive Interface: The tool offers an easy-to-navigate interface that works smoothly across different browsers, ensuring a consistent experience.
                 </div>
                 </div>
             </div>
